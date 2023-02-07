@@ -1,4 +1,4 @@
-👋 Hi there, I am Anit (@anitsh)
+👋 Hi there, I am Anit, 10+ years experienced programmer
 
 💻 This is my collection of .NET Core demo applications 
 
