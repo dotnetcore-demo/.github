@@ -1,14 +1,7 @@
-## Hi there 👋
+👋 Hi there, I am Anit (@anitsh)
 
-# Welcome!
+💻 This is my collection of .NET Core demo applications 
 
-🙋‍ I am Anit and this is my collection of .NET Core demo applications.
+🍿 There are many samples applications for various purposes
 
-🌈 Feel free to connect and contribute.👩‍
-
-💻 Together, we will find more ways to collaborate. Kindly, share you feedbacks and suggestions.
-
-🍿 We want to create a demo sample for various purposes for any to reference.
-
-🧙 Just say hi - [website](https://anitshrestha.com.np)
-
+🌈 Feel free to connect with me and contribute
